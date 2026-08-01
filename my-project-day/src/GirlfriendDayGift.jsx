@@ -85,7 +85,6 @@ const reasons = [
   "because loving you is the easiest thing I've ever done 💖",
   "because you're the reason behind my happiest smiles ✨",
   "because life feels more beautiful with you by my side 🤍",
-  "because you make my heart feel complete 💕",
   "because you're my today, my tomorrow, and my forever 🌹",
   "because every little thing about you is special to me 🫶",
   "because I'd choose you in every lifetime. ❤️",
