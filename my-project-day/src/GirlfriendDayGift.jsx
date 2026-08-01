@@ -76,7 +76,7 @@ const notes = [
 ];
 
 const highlightNote =
-  "Iyy innod mindiyalum njan annoode mindum... Nee innod mindiyilelum njan annood mindum...";
+  "Iyy innod mindiyalum njan annoode mindum... iyy innod mindiyilelum njan annood mindum...";
 
 const reasons = [
   "because every moment with you feels like home ❤️",
